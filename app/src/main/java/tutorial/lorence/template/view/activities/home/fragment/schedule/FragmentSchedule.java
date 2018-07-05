@@ -26,7 +26,6 @@ import tutorial.lorence.template.di.module.ScheduleModule;
 import tutorial.lorence.template.service.asyntask.DownloadImage;
 import tutorial.lorence.template.view.activities.home.HomeActivity;
 import tutorial.lorence.template.view.activities.home.fragment.adapter.ScheduleAdapter;
-import tutorial.lorence.template.view.activities.home.fragment.adapter.ScheduleToDayAdapter;
 import tutorial.lorence.template.view.activities.home.loading.FragmentLoading;
 import tutorial.lorence.template.view.fragments.BaseFragment;
 

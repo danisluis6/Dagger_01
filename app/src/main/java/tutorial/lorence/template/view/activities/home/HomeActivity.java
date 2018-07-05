@@ -148,16 +148,13 @@ public class HomeActivity extends BaseActivity implements HomeView, MaterialTabL
 
     @Override
     public void onTabSelected(MaterialTab tab) {
-        // TODO
     }
 
     @Override
     public void onTabReselected(MaterialTab tab) {
-        // TODO
     }
 
     @Override
     public void onTabUnselected(MaterialTab tab) {
-        // TODO
     }
 }

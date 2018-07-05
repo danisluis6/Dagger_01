@@ -11,7 +11,6 @@ import tutorial.lorence.template.data.storage.database.entities.Schedule;
 import tutorial.lorence.template.di.scope.FragmentScope;
 import tutorial.lorence.template.service.DisposableManager;
 import tutorial.lorence.template.view.activities.home.HomeActivity;
-import tutorial.lorence.template.view.activities.home.fragment.adapter.ScheduleToDayAdapter;
 import tutorial.lorence.template.view.activities.home.fragment.schedule.ScheduleModel;
 import tutorial.lorence.template.view.activities.home.fragment.schedule.SchedulePresenter;
 import tutorial.lorence.template.view.activities.home.fragment.schedule.SchedulePresenterImpl;
